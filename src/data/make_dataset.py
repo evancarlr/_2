@@ -3,8 +3,6 @@ from glob import glob
 import os
 
 
-# Demonstration for Git test
-
 # --------------------------------------------------------------
 # Read single CSV file
 # --------------------------------------------------------------
